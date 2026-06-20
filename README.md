@@ -1,7 +1,6 @@
-# 👋 Hi, I'm {Your Name}
+# 👋 Hi, I'm {Abubakar Siddiq Ibrahim}
 
-🚀 {I am new to coding/programming i want to be a software engineer and a full-stac developer mostly frontend though . AI Enthusiast;
-also love ai and want to start ai engineering}
+🚀 {I am 14 years old , new to coding/programming i want to be a software engineer and a full-stac developer mostly frontend though. AI Enthusiast; also love ai and want to main ai engineering}
 
 ---
 
