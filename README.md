@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm {Your Name}
 
-<!--
-**siddique-0/siddique-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 {I am new to coding/programming i want to be a software engineer and a full-stac developer mostly frontend though . AI Enthusiast;
+also love ai and want to start ai engineering}
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 🔭 Currently working on **{python pokemon game}**
+- 🌱 Learning **{html,css and js}**
+- 👯 Open to collaborate on **{BUSY AT THE MOMENT}**
+- 📫 Reach me at **{gmail:itz.siddique12th or siddiqueibrahim2012}**
+- ⚡ Fun fact: **{I'm a chill guy and mostly does work at his own pace}**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** {Python} • {HTMl} •  
+**Frameworks:**  
+**Tools:** {Github} • {VS Code}  •
