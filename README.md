@@ -1,6 +1,6 @@
 # 👋 Hi, I'm {Abubakar Siddiq Ibrahim}
 
-🚀 {I am 14 years old , new to coding/programming i want to be a software engineer and a full-stac developer mostly frontend though. AI Enthusiast; also love ai and want to main ai engineering}
+🚀 {I am 14 years old , new to coding/programming i want to be a software engineer and a full-stack developer mostly frontend though. AI Enthusiast; also love ai and want to main ai engineering}
 
 ---
 
